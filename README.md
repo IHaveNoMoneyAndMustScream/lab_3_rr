@@ -1,3 +1,3 @@
 # lab_3_rr
 
-https://github.com/josecarlosgt/Web-Design-and-Development/tree/tutorial-2-designing-and-structuring-content-HTML5
+file:///C:/Users/ramir/Downloads/lab_3_rr/base/base/index.html 

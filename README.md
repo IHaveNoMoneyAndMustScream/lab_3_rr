@@ -1,3 +1,3 @@
 # lab_3_rr
 
- file:///C:/Users/ramir/Downloads/lab_3_rr/base/base/index.html
+ https://ihavenomoneyandmustscream.github.io/lab_3_rr/ 
